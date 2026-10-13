@@ -12,6 +12,9 @@ The app uses a retrieval-augmented generation (RAG) pipeline with FAISS vector s
 - Answer questions with source-aware citations such as file name and page number
 - Follow-up question rewriting for more natural conversations
 - Export chat transcript as a text file
+<img width="958" height="456" alt="Screenshot 2026-10-14 031145" src="https://github.com/user-attachments/assets/a6008e45-0a82-43d5-914d-b2652529805c" />
+<img width="958" height="452" alt="Screenshot 2026-10-14 024006" src="https://github.com/user-attachments/assets/cc743ccd-e8ba-43b2-9170-0a61fe9084b6" />
+<img width="958" height="450" alt="Screenshot 2026-10-14 031124" src="https://github.com/user-attachments/assets/42461a57-29b8-47c7-8433-7dd84e513671" />
 
 ## Tech Stack
 
